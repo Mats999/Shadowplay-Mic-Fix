@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shadowplay Mic Fix", "Shadowplay Mic Fix\Shadowplay Mic Fix.csproj", "{004163DE-481B-47D1-8831-4893568D0193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shadowplay Mic Fix GUI", "Shadowplay Mic Fix GUI\Shadowplay Mic Fix GUI.csproj", "{EFE443F1-4D24-4B15-A6F6-9058C5A8D556}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Shadowplay Mic Fix Installer", "Shadowplay Mic Fix Installer\Shadowplay Mic Fix Installer.vdproj", "{5B44C330-52C6-45AE-8290-05848EFB495B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{004163DE-481B-47D1-8831-4893568D0193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004163DE-481B-47D1-8831-4893568D0193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004163DE-481B-47D1-8831-4893568D0193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004163DE-481B-47D1-8831-4893568D0193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE443F1-4D24-4B15-A6F6-9058C5A8D556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE443F1-4D24-4B15-A6F6-9058C5A8D556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE443F1-4D24-4B15-A6F6-9058C5A8D556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE443F1-4D24-4B15-A6F6-9058C5A8D556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B44C330-52C6-45AE-8290-05848EFB495B}.Debug|Any CPU.ActiveCfg = Debug
+		{5B44C330-52C6-45AE-8290-05848EFB495B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7695234C-E0F7-4090-AF17-B76EAA141688}
+	EndGlobalSection
+EndGlobal
